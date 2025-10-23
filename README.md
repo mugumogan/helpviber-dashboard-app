@@ -1,6 +1,6 @@
 # VibePulse: Admin Analytics Dashboard
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/mugumogan/helpviber-dashboard-app)
 
 VibePulse is a sophisticated, information-dense administration dashboard for the HelpViber platform. It provides administrators with a comprehensive, real-time, and historical overview of the ticketing system's health and performance. The UI is designed to be visually stunning, intuitively interactive, and exceptionally clear, leveraging modern data visualization techniques to make complex data easily digestible.
 
@@ -111,4 +111,4 @@ This project is configured for easy deployment to Cloudflare's global network.
 
 Alternatively, deploy directly from your GitHub repository with a single click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/mugumogan/helpviber-dashboard-app)
